@@ -1,4 +1,4 @@
-## Hi there 👋
+## I just a dino
 
 <!--
 **CanelaLu17/CanelaLu17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
